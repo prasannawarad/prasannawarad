@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/prasannawarad">GitHub</a> · 
   <a href="https://www.linkedin.com/in/prasannawarad">LinkedIn</a> · 
   <a href="mailto:waradprasanna@gmail.com">Email</a> · 
   Dallas, TX
