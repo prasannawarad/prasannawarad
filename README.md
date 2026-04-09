@@ -80,17 +80,6 @@
 
 ---
 
-### GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prasannawarad&theme=dark&hide_border=true&background=0d1117&ring=f5a623&fire=f5a623&currStreakLabel=f5a623" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannawarad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623" alt="Top languages" />
-</p>
-
----
 
 ### Right now
 
