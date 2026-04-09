@@ -18,13 +18,22 @@
 ### Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cs,nodejs,react,postgres,mysql,mongodb,aws,docker,git,figma&perline=12&theme=light" alt="tech icons" #gh-light-mode-only />
-  <img src="https://skillicons.dev/icons?i=python,r,cs,nodejs,react,postgres,mysql,mongodb,aws,docker,git,figma&perline=12&theme=dark" alt="tech icons" #gh-dark-mode-only />
+  <img src="https://skillicons.dev/icons?i=python,r,nodejs,react,fastapi,postgres,mysql,mongodb,aws,docker,git,figma&perline=12&theme=dark" alt="tech stack icons" />
 </p>
 
-<p align="center">
-  <code>Spark</code> · <code>Airflow</code> · <code>Hadoop</code> · <code>dbt</code> · <code>Snowflake</code> · <code>Redshift</code> · <code>Oracle</code> · <code>Azure Synapse</code> · <code>PyTorch</code> · <code>scikit-learn</code> · <code>Tableau</code> · <code>Power BI</code>
-</p>
+<br/>
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python · R · C# · SQL · JavaScript |
+| **Data Engineering** | Apache Spark · Airflow · Hadoop · dbt · Kafka |
+| **Cloud & Warehousing** | AWS · Snowflake · Redshift · Azure Synapse · Oracle |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **ML & AI** | PyTorch · scikit-learn · MLflow · LangChain · LangGraph |
+| **LLM & GenAI** | RAG · LLM Fine-tuning · Multi-Agent Systems · MCP · Claude |
+| **Backend & APIs** | Node.js · FastAPI · REST |
+| **BI & Visualization** | Tableau · Power BI |
+| **Dev Tools** | Docker · Git · Figma · React |
 
 ---
 
