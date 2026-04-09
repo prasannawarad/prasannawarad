@@ -18,22 +18,14 @@
 ### Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,nodejs,react,fastapi,postgres,mysql,mongodb,aws,docker,git,figma&perline=12&theme=dark" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,r,cs,nodejs,react,fastapi,postgres,mysql,mongodb,aws,docker,pytorch,git,figma&perline=14&theme=dark" alt="tech stack" />
 </p>
 
-<br/>
-
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python · R · C# · SQL · JavaScript |
-| **Data Engineering** | Apache Spark · Airflow · Hadoop · dbt · Kafka |
-| **Cloud & Warehousing** | AWS · Snowflake · Redshift · Azure Synapse · Oracle |
-| **Databases** | PostgreSQL · MySQL · MongoDB |
-| **ML & AI** | PyTorch · scikit-learn · MLflow · LangChain · LangGraph |
-| **LLM & GenAI** | RAG · LLM Fine-tuning · Multi-Agent Systems · MCP · Claude |
-| **Backend & APIs** | Node.js · FastAPI · REST |
-| **BI & Visualization** | Tableau · Power BI |
-| **Dev Tools** | Docker · Git · Figma · React |
+<p align="center">
+  <code>Spark</code> · <code>Airflow</code> · <code>Hadoop</code> · <code>dbt</code> · <code>Kafka</code> · <code>Snowflake</code> · <code>Redshift</code> · <code>Azure Synapse</code> · <code>Oracle</code><br/>
+  <code>scikit-learn</code> · <code>MLflow</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>RAG</code> · <code>LLM Fine-tuning</code> · <code>Multi-Agent Systems</code> · <code>MCP</code><br/>
+  <code>Tableau</code> · <code>Power BI</code> · <code>FastAPI</code> · <code>REST</code>
+</p>
 
 ---
 
