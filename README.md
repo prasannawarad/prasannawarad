@@ -71,27 +71,22 @@
 
 ### Beyond the code
 
-When I'm not building pipelines or side projects, you'll find me:
-
-- 🏏 Playing **Cricket**, **Pickleball**, or **Table Tennis**
-- ⚽ Watching **Soccer** — never miss a weekend match
-- 📚 Reading **Fiction** and **Philosophy**
-- 📺 Binge-watching **Suits**, **Billions**, **Modern Family**
-- 🎬 Keeping up with every **Marvel** release and deep in **Anime**
-- 🛠️ Prototyping random ideas that make everyday work easier
+<p align="center">
+  🏏 Cricket &nbsp;·&nbsp; 🏓 Pickleball & Table Tennis &nbsp;·&nbsp; ⚽ Soccer every weekend<br/>
+  📚 Fiction & Philosophy &nbsp;·&nbsp; 📺 Suits · Billions · Modern Family<br/>
+  🎬 Marvel fan &nbsp;·&nbsp; ⛩️ Anime watcher &nbsp;·&nbsp; 🛠️ Always prototyping something new
+</p>
 
 ---
 
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasannawarad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannawarad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=prasannawarad&theme=dark&hide_border=true&background=0d1117&ring=f5a623&fire=f5a623&currStreakLabel=f5a623" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prasannawarad&theme=dark&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannawarad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623" alt="Top languages" />
 </p>
 
 ---
