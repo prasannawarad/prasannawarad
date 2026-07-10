@@ -107,6 +107,5 @@ Top 5    Goldman Sachs × UTD JSOM Hackathon — InvestIQ
 
 ### 🚀 Right now
 
-- Shipping data + backend systems at **Cloud BC Labs**
 - Building production RAG and LLM-evaluation systems — grounded answers, cited sources, measured faithfulness
 - Open to full-time **Data Engineer / AI-ML Engineer / Data Platform** roles → [waradprasanna@gmail.com](mailto:waradprasanna@gmail.com)
