@@ -12,7 +12,7 @@
   <a href="mailto:waradprasanna@gmail.com">Email</a>
 </p>
 
-> 🤖 **Don't feel like scrolling?** Ask [**Prasanna AI**](https://prasannawarad.com) — the chat widget on my portfolio answers questions about my work, my projects, and even my anime backlog. I built it myself: Cloudflare Worker + Groq, grounded in a structured knowledge base. *This README, but conversational.*
+> 🤖 **Don't feel like scrolling?** Ask [**Prasanna AI**](https://prasannawarad.com) — the chat widget on my portfolio answers questions about my work, my projects, and even my anime backlog. I built it myself: Cloudflare Worker + Groq, grounded in a structured knowledge base.
 
 ---
 
@@ -37,8 +37,6 @@
 | **Scalable Fleet Risk Analytics** | Hadoop-based ingestion and transformation for multi-state fleet operations with risk and compliance monitoring | Hadoop · HDFS · MapReduce · Power BI |
 | **Instacart Customer Behavior** | Processed 3M+ grocery transactions into analytics-ready datasets with KPI dashboards for demand and ROI tracking | SQL · Python · Tableau |
 | **[My_Portfolio](https://github.com/prasannawarad/My_Portfolio)** — [live](https://prasannawarad.com) | This portfolio site — with **Prasanna AI**, a chat widget that answers questions about my work, served by a Cloudflare Worker + Groq | React · Vite · Tailwind · Cloudflare Workers |
-
-<sub>Also building (private for now): **JobPilot** — n8n cold-outreach automation with AI-personalized emails, and **LeadFlow AI** — AI sales automation for service businesses with audit-logged agent decisions.</sub>
 
 ---
 
