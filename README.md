@@ -70,7 +70,7 @@ deterministic core ── LLMs decorate the edges; the engine underneath is repr
 
 | Role | Focus | Time |
 |------|-------|------|
-| **Software Engineer Intern, Cloud BC Labs** | Building agentic AI hiring automation — REST APIs with Node.js and Python, ETL optimization, behavioral trend analysis | Oct 2025 – Present |
+| **Software Engineer Intern, Cloud BC Labs** | Building agentic AI hiring automation — REST APIs with Node.js and Python, ETL optimization, behavioral trend analysis | Oct 2025 – May 2026 |
 | **Data Engineer, HCLTech (Client: Dollar General)** | Spark + Airflow reporting pipelines serving a 19,000+ store retail network, large-scale transaction analysis, anomaly forecasting on AWS logs | Feb 2023 – Jul 2024 |
 
 ```text
