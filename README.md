@@ -25,7 +25,7 @@
 
 | If you're hiring for… | Read these first |
 |---|---|
-| **Data Engineering / Platform** | [market-research-copilot](https://github.com/prasannawarad/market-research-copilot) — Spark → Delta/Unity Catalog → pgvector serving · [CardioRisk](https://github.com/prasannawarad/CardioRisk) — deterministic config-driven pipeline · plus production Spark/Airflow pipelines for a 19,000-store retail network at HCLTech ↓ |
+| **Data Engineering / Platform** | [market-research-copilot](https://github.com/prasannawarad/market-research-copilot) — Spark → Delta/Unity Catalog → pgvector serving · [CardioRisk](https://github.com/prasannawarad/CardioRisk) — deterministic config-driven pipeline · plus production Spark/Airflow reporting pipelines for national retail operations at HCLTech ↓ |
 | **AI / ML Engineering** | [sec-rag-intel](https://github.com/prasannawarad/sec-rag-intel) — RAG with RAGAS-measured faithfulness · [RAGbase](https://github.com/prasannawarad/RAGbase) — hybrid BM25 + vector retrieval · [credit-risk-default-prediction](https://github.com/prasannawarad/credit-risk-default-prediction) — imbalanced-class modeling |
 | **Full-stack / Product** | [codelens-ai](https://codelens-ai-olive.vercel.app) · [InvestIQ](https://invest-iq-kuber.netlify.app) · [DataDoc_AI](https://datadocai.netlify.app) — all three are live and clickable |
 
@@ -88,10 +88,9 @@ deterministic core ── LLMs decorate the edges; the engine underneath is repr
 | Role | Focus | Time |
 |------|-------|------|
 | **Software Engineer Intern, Cloud BC Labs** | Built agentic AI hiring automation — REST APIs with Node.js and Python, ETL optimization, behavioral trend analysis | Oct 2025 – May 2026 |
-| **Data Engineer, HCLTech (Client: Dollar General)** | Spark + Airflow reporting pipelines serving a retail network of 19,000+ stores, large-scale transaction analysis, anomaly forecasting on AWS logs | Feb 2023 – Jul 2024 |
+| **Data Engineer, HCLTech (Client: Dollar General)** | Spark + Airflow reporting pipelines for a national retail network, large-scale transaction analysis, anomaly forecasting on AWS logs | Feb 2023 – Jul 2024 |
 
 ```text
-19,000+  retail stores served by production Spark ETL & reporting pipelines
 5-stage  hiring process automated end-to-end with LLM agents
 Top 5    Goldman Sachs × UTD JSOM Hackathon — InvestIQ
 2M+      retail transaction records analyzed to improve reporting data quality
@@ -124,7 +123,7 @@ Top 5    Goldman Sachs × UTD JSOM Hackathon — InvestIQ
 
 ### 🚀 What I'm focused on now
 
-Since finishing my M.S. and my internship at Cloud BC Labs in May 2026, I've been building full-time — going deep on lakehouse and agentic-AI engineering through structured boot camps, and shipping the work publicly rather than waiting for a job title to learn it.
+Since completing my M.S. and my internship at Cloud BC Labs in May 2026, I've been deepening my lakehouse and agentic-AI engineering through structured boot camps and shipping the results publicly.
 
 - **Databricks lakehouse boot camp** — Spark on Delta Lake / Unity Catalog, Lakebase Postgres, pgvector serving, and MCP tool servers; capstone shipped as **[market-research-copilot](https://github.com/prasannawarad/market-research-copilot)**
 - **Production RAG & LLM evaluation** — grounded answers, cited sources, faithfulness measured rather than assumed
