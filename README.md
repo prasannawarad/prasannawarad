@@ -16,6 +16,16 @@
 
 ---
 
+### 🧭 Hiring for a specific role? Start here
+
+| If you're hiring for… | Read these first |
+|---|---|
+| **Data Engineering / Platform** | [market-research-copilot](https://github.com/prasannawarad/market-research-copilot) — Spark → Delta/Unity Catalog → pgvector serving · [CardioRisk](https://github.com/prasannawarad/CardioRisk) — deterministic config-driven pipeline · plus 19,000-store production Spark/Airflow work at HCLTech ↓ |
+| **AI / ML Engineering** | [sec-rag-intel](https://github.com/prasannawarad/sec-rag-intel) — RAG with RAGAS-measured faithfulness · [RAGbase](https://github.com/prasannawarad/RAGbase) — hybrid BM25 + vector retrieval · [credit-risk-default-prediction](https://github.com/prasannawarad/credit-risk-default-prediction) — imbalanced-class modeling |
+| **Full-stack / Product** | [codelens-ai](https://codelens-ai-olive.vercel.app) · [InvestIQ](https://invest-iq-kuber.netlify.app) · [DataDoc_AI](https://datadocai.netlify.app) — all live, all with working demos |
+
+---
+
 ### 🔭 Featured: AI & LLM Systems
 
 | Project | What it does | Stack |
@@ -25,18 +35,19 @@
 | **[RAGbase](https://github.com/prasannawarad/RAGbase)** — [live](https://ragbase.prasannawarad.com) | Document-intelligence RAG platform: **hybrid retrieval (BM25 + vector + RRF)**, streaming answers with clickable chunk-level citations, chunk inspector, analytics dashboard | Next.js · Supabase pgvector · Gemini embeddings · Groq (SSE) |
 | **[InvestIQ](https://github.com/prasannawarad/InvestIQ)** — *Top 5, Goldman Sachs × UTD JSOM Hackathon* — [live](https://invest-iq-kuber.netlify.app) | AI portfolio guide for beginner investors: deterministic portfolio engine, streaming AI copilot with real-time voice briefings, and a Chrome extension that answers "what does this news mean for *my* portfolio?" | Next.js monorepo · Supabase · Groq · ElevenLabs · Plasmo MV3 |
 | **[DataDoc_AI](https://github.com/prasannawarad/DataDoc_AI)** — [live](https://datadocai.netlify.app) | Data-quality debugger: profile a CSV entirely in-browser, get AI-explained issues with suggested fix SQL, and query it with natural language → SQL | React · in-browser SQL engine · Express proxy · Gemini |
-| **[prepai-pro](https://github.com/prasannawarad/prepai-pro)** | Interview intelligence: generates a company research dossier + STAR stories from your resume, then runs a scored multi-turn mock interview with adaptive difficulty | React · Vite · Gemini 2.5 Flash |
+| **[prepai-pro](https://github.com/prasannawarad/prepai-pro)** — [live](https://prepai-pro.vercel.app) | Interview intelligence: generates a company research dossier + STAR stories from your resume, then runs a scored multi-turn mock interview with adaptive difficulty and Whisper voice answers | React · Vite · Gemini 2.5 Flash · Groq Whisper |
 
 ### 📊 Data Engineering & ML
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| **[market-research-copilot](https://github.com/prasannawarad/market-research-copilot)** | Lakehouse-to-agent pipeline: Spark job computes rolling returns, volatility, volume z-scores and drawdown via **window functions**, embeds article text with a **pandas UDF**, and writes partitioned Delta + a distributed upsert into Postgres with **pgvector/HNSW** — then an **MCP server exposes 10 agent tools, 4 of which write back** | PySpark · Delta Lake / Unity Catalog · Lakebase Postgres · pgvector · FastMCP · Flask |
 | **[credit-risk-default-prediction](https://github.com/prasannawarad/credit-risk-default-prediction)** | Default prediction on **255K+ loan records** with ~12% positives: SMOTE inside stratified 5-fold CV, RandomizedSearchCV model comparison, RF threshold calibration, partial-dependence interpretation | Python · scikit-learn · XGBoost · imbalanced-learn |
 | **[CardioRisk](https://github.com/prasannawarad/CardioRisk)** | Config-driven, fully deterministic ETL + ML pipeline over **~300K healthcare records** — modular stages, reproducible seeds, headless CLI execution; champion model at ~91% accuracy / 0.81 AUC | R · tidyverse · caret · randomForest |
-| **[ETL Pipeline with Airflow + Astro](https://github.com/prasannawarad/End-To-End-ETL-Pipeline-Using-AirFlow-And-Astro)** | End-to-end ETL with scheduling, monitoring, and containerized deployment | Apache Airflow · Astro · Python |
 | **Scalable Fleet Risk Analytics** | Hadoop-based ingestion and transformation for multi-state fleet operations with risk and compliance monitoring | Hadoop · HDFS · MapReduce · Power BI |
 | **Instacart Customer Behavior** | Processed 3M+ grocery transactions into analytics-ready datasets with KPI dashboards for demand and ROI tracking | SQL · Python · Tableau |
-| **[My_Portfolio](https://github.com/prasannawarad/My_Portfolio)** — [live](https://prasannawarad.com) | This portfolio site — with **Prasanna AI**, a chat widget that answers questions about my work, served by a Cloudflare Worker + Groq | React · Vite · Tailwind · Cloudflare Workers |
+
+<sub>Also: **[My_Portfolio](https://github.com/prasannawarad/My_Portfolio)** — [prasannawarad.com](https://prasannawarad.com), the site above, with **Prasanna AI** served by a Cloudflare Worker + Groq.</sub>
 
 ---
 
@@ -47,8 +58,8 @@
 </p>
 
 <p align="center">
-  <code>Spark</code> · <code>Airflow</code> · <code>Kafka</code> · <code>Hadoop</code> · <code>dbt</code> · <code>Snowflake</code> · <code>Redshift</code> · <code>Azure Synapse</code> · <code>Oracle</code><br/>
-  <code>scikit-learn</code> · <code>MLflow</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>RAG / pgvector / ChromaDB / Pinecone</code> · <code>RAGAS</code> · <code>LLM Fine-tuning</code> · <code>Multi-Agent Systems</code> · <code>MCP</code><br/>
+  <code>Spark</code> · <code>Airflow</code> · <code>Databricks</code> · <code>Delta Lake</code> · <code>Unity Catalog</code> · <code>Kafka</code> · <code>Hadoop</code> · <code>dbt</code> · <code>Snowflake</code> · <code>Redshift</code> · <code>Azure Synapse</code> · <code>Oracle</code><br/>
+  <code>scikit-learn</code> · <code>MLflow</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>RAG / pgvector / ChromaDB / Pinecone</code> · <code>RAGAS</code> · <code>LLM Fine-tuning</code> · <code>Multi-Agent Systems</code> · <code>MCP / FastMCP</code><br/>
   <code>Groq</code> · <code>Gemini</code> · <code>Tableau</code> · <code>Power BI</code> · <code>REST APIs</code> · <code>Cloudflare Workers</code> · <code>n8n</code> · <code>BullMQ</code> · <code>Prisma</code>
 </p>
 
@@ -58,6 +69,7 @@
 
 ```
 simple > clever ──── every architecture decision should survive an interview whiteboard
+pipelines, not scripts ── window functions and partitioned writes, not a for-loop in a Spark wrapper
 free tier, prod patterns ── quotas are real constraints → every LLM call has a fallback chain
 grounded or it didn't happen ── RAG answers ship with citations + RAGAS faithfulness scores
 deployed > demo ──── live URL, seeded demo account, screenshots — or it's not done
