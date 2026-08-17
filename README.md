@@ -3,13 +3,18 @@
 <p align="center">
   <strong>Building Data & Agentic AI Systems</strong><br/>
   Data pipelines, RAG systems, and LLM workflows — end to end, deployed, and documented.<br/>
-  M.S. in IT &amp; Management @ UT Dallas — Dean's Excellence Scholar · ex-HCLTech · Dallas, TX
+  M.S. in IT &amp; Management, UT Dallas '26 — Dean's Excellence Scholar · ex-HCLTech · Dallas, TX
 </p>
 
 <p align="center">
   <a href="https://prasannawarad.com"><strong>prasannawarad.com</strong></a> ·
   <a href="https://www.linkedin.com/in/prasannawarad">LinkedIn</a> ·
   <a href="mailto:waradprasanna@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <strong>🟢 Open to full-time roles</strong> — Data Engineer · AI/ML Engineer · Data Platform<br/>
+  <sub>Dallas, TX or remote · available immediately</sub>
 </p>
 
 > 🤖 **Don't feel like scrolling?** Ask [**Prasanna AI**](https://prasannawarad.com) — the chat widget on my portfolio answers questions about my work, my projects, and even my anime backlog. I built it myself: Cloudflare Worker + Groq, grounded in a structured knowledge base.
@@ -82,7 +87,7 @@ deterministic core ── LLMs decorate the edges; the engine underneath is repr
 
 | Role | Focus | Time |
 |------|-------|------|
-| **Software Engineer Intern, Cloud BC Labs** | Building agentic AI hiring automation — REST APIs with Node.js and Python, ETL optimization, behavioral trend analysis | Oct 2025 – May 2026 |
+| **Software Engineer Intern, Cloud BC Labs** | Built agentic AI hiring automation — REST APIs with Node.js and Python, ETL optimization, behavioral trend analysis | Oct 2025 – May 2026 |
 | **Data Engineer, HCLTech (Client: Dollar General)** | Spark + Airflow reporting pipelines serving a 19,000+ store retail network, large-scale transaction analysis, anomaly forecasting on AWS logs | Feb 2023 – Jul 2024 |
 
 ```text
@@ -117,7 +122,13 @@ Top 5    Goldman Sachs × UTD JSOM Hackathon — InvestIQ
 
 ---
 
-### 🚀 Right now
+### 🚀 What I'm focused on now
 
-- Building production RAG and LLM-evaluation systems — grounded answers, cited sources, measured faithfulness
-- Open to full-time **Data Engineer / AI-ML Engineer / Data Platform** roles → [waradprasanna@gmail.com](mailto:waradprasanna@gmail.com)
+Since finishing my M.S. and my internship at Cloud BC Labs in May 2026, I've been building full-time — going deep on lakehouse and agentic-AI engineering through structured boot camps and shipping the work publicly rather than waiting on a job title to learn it.
+
+- **Databricks lakehouse boot camp** — Spark on Delta Lake / Unity Catalog, Lakebase Postgres, pgvector serving, and MCP tool servers; capstone shipped as **[market-research-copilot](https://github.com/prasannawarad/market-research-copilot)**
+- **Production RAG & LLM evaluation** — grounded answers, cited sources, faithfulness measured rather than assumed
+- **Shipping end to end** — six of the projects above are deployed and publicly demoable, not screenshots in a slide deck
+
+**Open to full-time Data Engineer / AI-ML Engineer / Data Platform roles.**
+Reach me at [waradprasanna@gmail.com](mailto:waradprasanna@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/prasannawarad).
